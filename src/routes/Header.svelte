@@ -19,11 +19,13 @@
     }
 
     .source {
-        color: inherit;
+        color: #cad3f5;
         text-decoration: none;
-        border: 1px solid black;
+        border: 1px solid #ed8796;
+        border-radius: 0.5em;
         font-size: 1.1rem;
         padding: 0.5em;
+        background-color: #363a4f;
     }
 
     .source:hover,

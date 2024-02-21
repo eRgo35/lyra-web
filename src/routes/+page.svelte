@@ -17,17 +17,6 @@
 
     <h2>Lyra is a discord bot written in Rust.</h2>
 
-    <div class="more">
-        <h1>Features</h1>
-        tbd
-        <h1>Getting Started</h1>
-        tbd
-        <h1>Commands</h1>
-        tbd
-        <h1>Building</h1>
-        tbd
-    </div>
-
 </div>
 
 <Footer />
@@ -39,20 +28,11 @@
         align-items: center;
         flex-direction: column;
         font-family: Roboto;
-        min-height: 100vh;
-    }
-
-    .more {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: start;
-        margin-top: 4em;
-        width: 70%;
-        margin-bottom: 10em;
+        min-height: calc(100vh - 13em);
     }
 
     .img {
         width: 22rem;
+        border-radius: 1em;
     }
 </style>

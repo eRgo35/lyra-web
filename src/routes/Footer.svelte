@@ -4,7 +4,7 @@
         <span>All rights reserved</span>
     </div>
     <div class="footer-center">
-        <span>Lyra v0.1.0</span>
+        <span>Lyra v0.8.0</span>
     </div>
     <div class="footer-right">
         <a href="/tos">Terms of Service</a>
@@ -19,7 +19,8 @@
         align-items: center;
         padding: 3em 2em 3em;
         font-family: Roboto;
-        background: #d4d4d4;
+        background: #1e2030;
+        height: 1em;
     }
 
     .footer-left {
